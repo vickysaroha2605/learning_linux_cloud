@@ -15,7 +15,7 @@
 - Practiced grep for searching logs
 - Learned wc for counting lines and words
 
-##Day 4 and 5 - Permissions & Ownership
+## Day 4 and 5 - Permissions & Ownership
 - Learned read, write and execution permissions
 - Practiced chmod
 - Learned chown and permission-denied erros
