@@ -19,3 +19,7 @@
 - Learned read, write and execution permissions
 - Practiced chmod
 - Learned chown and permission-denied erros
+
+## Day 6 – Processes & Services
+- Used ps and top to monitor processes
+- Practiced killing processes using kill
