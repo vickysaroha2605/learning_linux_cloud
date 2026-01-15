@@ -20,6 +20,6 @@
 - Practiced chmod
 - Learned chown and permission-denied erros
 
-## Day 6 – Processes & Services
+## Day 6 – Processes
 - Used ps and top to monitor processes
 - Practiced killing processes using kill
