@@ -23,3 +23,8 @@
 ## Day 6 – Processes
 - Used ps and top to monitor processes
 - Practiced killing processes using kill
+
+## Day 7 – Logs & Troubleshooting
+- Read system logs from /var/log/syslog
+- Checked authentication logs
+- Learned to debug issues using logs instead of guessing
