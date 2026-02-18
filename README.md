@@ -17,7 +17,7 @@
 
 ## Day 4 and 5 - Permissions & Ownership
 - Learned read, write and execution permissions
-- Practiced chmod
+- Practiced chmod ( numeric and symbolic )
 - Learned chown and permission-denied erros
 
 ## Day 6 – Processes
@@ -28,3 +28,8 @@
 - Read system logs from /var/log/syslog
 - Checked authentication logs
 - Learned to debug issues using logs instead of guessing
+
+## Day 8-9-10 Learned I/O Redirections, nano command, sudo command
+- Directing One file output into another as Input or vice versa
+- editing files using nano command
+- Using administration rights using sudo command
